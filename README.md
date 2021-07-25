@@ -1,4 +1,4 @@
-# Aryacover.IR > made by arian abdollahian
+# Aryacover.IR
 
 ###### bootstraped by create-react-app
 
